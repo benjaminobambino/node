@@ -2,6 +2,7 @@
 
 Select a Node.js version below to view the changelog history:
 
+* [Node.js 17] (doc/changelogs/CHANGELOG\_V17.1.md) **Fake**
 * [Node.js 17](doc/changelogs/CHANGELOG\_V17.md) **Current**
 * [Node.js 16](doc/changelogs/CHANGELOG\_V16.md) **Long Term Support**
 * [Node.js 15](doc/changelogs/CHANGELOG\_V15.md) End-of-Life
